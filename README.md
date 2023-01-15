@@ -1,6 +1,6 @@
 # Welcome to my CAD Portfolio!
 
-In this repository, you will find a collection of 3D models and corresponding screenshots. Each folder contains both the STL models and the screenshots of the models.
+In this repository, you will find a collection of 3D models made using Fusion 360 and SolidWorks, plus corresponding screenshots. Each folder contains both the STL models and the screenshots of the models.
 
 To view the models, you will need a 3D modeling software such as Fusion 360, AutoCAD or Blender. The STL files can be imported into these programs to view and manipulate the models.
 
